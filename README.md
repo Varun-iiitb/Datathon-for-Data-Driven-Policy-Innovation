@@ -1,6 +1,7 @@
 # Data-Driven Policy Innovation (Datathon Project)
 
 ## 🚀 Check out our visualizations here 👉 [![Visualization](https://img.shields.io/badge/Visualization-Live-brightgreen)](https://datathon-drab.vercel.app/)
+## 🚀 Check out our Presentation here 👉[![Presentation](https://img.shields.io/badge/Presentation-PPT-blue)](https://docs.google.com/presentation/d/1RR_FXRUs_VLhelqh4l3s26YOj5RvSALk/edit?usp=sharing)
 
 
 ## 📌 Overview
